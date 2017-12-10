@@ -1,0 +1,1 @@
+﻿var AppMarketApp = angular.module("AppMarketApp",[]);
